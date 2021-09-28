@@ -40,4 +40,4 @@ addItem = (input) => {
 
   document.querySelector("#to_do_list").appendChild(item);
   document.querySelector("#input").value = "";
-}
+};
